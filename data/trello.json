@@ -1,0 +1,22 @@
+[
+	{
+		"_id": "818ee73b-139f-480f-86ad-296f5765d55d",
+		"status": "IN_PROGRESS",
+		"user": {
+			"_id": "02b03a26-6371-4e51-a965-a99184e5842b",
+			"avatar": "http://placeimg.com/640/480/people",
+			"userName": "Víctor",
+			"userLastName": "Albuquerque",
+			"userEmail": "victor.albuquerque@gsw.com.br"
+		},
+		"hours": null,
+		"startedAt": "2021-02-21T19:51:21.282Z",
+		"isFinished": false,
+		"project": "[Xavier - Moraes S.A.] - open architecture",
+		"cardDescription": "copy digital card",
+		"gitMetadata": {
+			"branch": "hard-drive-copy",
+			"hash": "c23477790d2b2f030affded6e6051027764521d4"
+		}
+	}
+]

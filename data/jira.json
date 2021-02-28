@@ -1,0 +1,22 @@
+[
+	{
+		"id": "4262fff4-c9c6-4d93-8e7b-fee3bd465adb",
+		"status": "IN_PROGRESS",
+		"user": {
+			"id": "97dc7b27-d3a7-40b8-b51a-5697ee8faf69",
+			"avatar": "http://placeimg.com/640/480/people",
+			"first_name": "Fabrícia",
+			"last_name": "Albuquerque",
+			"email": "fabricia.albuquerque@gsw.com.br"
+		},
+		"amountHours": null,
+		"startedAt": "2021-02-28T06:06:22.886Z",
+		"finished": false,
+		"project": "[Souza - Silva Comércio] - Visionary web",
+		"cardDescription": "back up wireless port",
+		"gitMetadata": {
+			"branch": "application-program",
+			"hash": "704838acac86c8be913427c3d4e2159b4287557e"
+		}
+	}
+]
