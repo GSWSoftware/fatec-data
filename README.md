@@ -1,6 +1,12 @@
-# fatec-data
+# Projeto Integrador - Fatec-Data
 
-Dados do projeto integrador.
+# Clone este repositório:
+
+```sh
+git clone https://github.com/GSWSoftware/fatec-data.git
+```
+
+Ou [clique aqui](https://github.com/GSWSoftware/fatec-data/archive/main.zip) e faça o download do repositório como um arquivo `.zip`
 
 # Paulo Luan :man_technologist:
 
